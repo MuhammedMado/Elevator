@@ -1,5 +1,5 @@
 <h1 align="center">
-# Elevator
+Elevator
 Design an elevator FSM on Proteus.
 
 You will find the Simm video here: https://bit.ly/elevatorprot
